@@ -1,11 +1,9 @@
-from genAlg import Population
 from internetSearch import Search
 __author__ = 'ericweiner'
 import urllib
 from bs4 import BeautifulSoup
 
 #print(BeautifulSoup(urllib.request.urlopen("https://www.google.com"),"html.parser").title.string)
-
 
 
 #s = Search()
